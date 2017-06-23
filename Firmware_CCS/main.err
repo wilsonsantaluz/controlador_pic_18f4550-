@@ -1,0 +1,5 @@
+>>> Warning 203 "C:\Arquivos de programas\PICC\drivers\pic18_usb.h" Line 523(1,1): Condition always TRUE
+>>> Warning 216 "main.c" Line 58(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "main.c" Line 58(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+      Memory usage:   ROM=11%      RAM=52% - 54%
+      0 Errors,  3 Warnings.
